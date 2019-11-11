@@ -5,6 +5,7 @@ local_recipient_maps =
 mailbox_size_limit = ###MT_MAILBOX_LIMIT###
 virtual_mailbox_limit = ###MT_MAILBOX_LIMIT###
 message_size_limit = ###MT_MESSAGE_LIMIT###
+mynetworks_style = class
 # /mailtrap
 
 readme_directory = no
